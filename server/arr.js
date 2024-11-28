@@ -24,3 +24,5 @@ const arr=[
        
 
     module.exports = {remove,add,update}
+
+    //הערות כדי לבדוק שהשינויים קיימים
